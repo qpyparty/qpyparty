@@ -1,16 +1,30 @@
-### Hi there 👋
+## Stack
 
-<!--
-**qpyparty/qpyparty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite&logoColor=white)
 
-Here are some ideas to get you started:
+## Contact me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://vk.me/qpyparty">
+  <img src="https://img.shields.io/badge/-VK-blue?style=flat-square&logo=vk&logoColor=white">
+  </img>
+</a>
+
+<a href="https://t.me/qpyparty">
+  <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white">
+  </img>
+</a>
+
+<a href="mailto:sumashedn@gmail.com">
+  <img src="https://img.shields.io/badge/-E--Mail-blue?style=flat-square&logo=mail.ru&logoColor=white">
+  </img>
+</a>
+
+## Follow me
+
+<a href="https://t.me/qpyparty_daily">
+  <img src="https://img.shields.io/badge/-On%20Telegram-blue?style=flat-square&logo=telegram&logoColor=white">
+  </img>
+</a>
